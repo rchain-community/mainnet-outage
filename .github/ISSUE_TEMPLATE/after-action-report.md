@@ -1,6 +1,6 @@
 ---
 name: After Action Report
-about: User this template for both mainnet interruption and outages
+about: Use this template for both mainnet interruption and outages
 title: ''
 labels: ''
 assignees: ''
