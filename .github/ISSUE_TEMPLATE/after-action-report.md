@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-| Questions       |        Needed Information....................................|
+| Questions       |        Needed Information     |
 | ------------- |:----------------------------------------------:|
-| Date                        |                                                                       |
-| Outage Type          |                                                                       |
-| Nature of Problem |                                                                       |
-| Time Down             |                                                                       |
-| Time Restored       |                                                                       |
-| Site                         |                                                                       |
-| Operator                |                                                                       |
-| Current Stat          |                                                                       |
-| Action Taken         |                                                                       |
+| Date                  |                                        |
+| Outage Type           |                                        |
+| Nature of Problem     |                                        |
+| Time Circuit Down     |                                        |
+| Time Circuit Restored |                                        |
+| Site                  |                                        |
+| Operator              |                                        |
+| Current Status        |                                        |
+| Action Taken          |                                        |
