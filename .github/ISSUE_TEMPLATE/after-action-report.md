@@ -12,8 +12,8 @@ assignees: ''
 | Date                  |                                        |
 | Outage Type           |                                        |
 | Nature of Problem     |                                        |
-| Time Circuit Went Down     |                                        |
-| Time Circuit Was Restored |                                        |
+| Time Circuit Went Down     |         DD:    HH:    MM:                                 |
+| Time Circuit Was Restored |         DD:    HH:    MM:                                 |
 | Site                  |                                        |
 | Operator              |                                        |
 | Current Status        |                                        |
