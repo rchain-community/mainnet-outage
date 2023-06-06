@@ -19,7 +19,7 @@ The purpose of this AAR is to review the effectiveness of the monitoring program
 
 After Action Report, is a process for reviewing and reflecting on an event or activity. It is a valuable tool for improving performance and identifying areas for improvement. An AAR for monitoring can be used to review the effectiveness of a monitoring program and identify areas where the program can be improved.
 
-The following are some of the key benefits of conducting an AAR for monitoring:
+## The following are some of the key benefits of conducting an AAR for monitoring:
 
 *Improved performance
 
@@ -27,7 +27,7 @@ The following are some of the key benefits of conducting an AAR for monitoring:
 
 *Increased understanding of the monitoring program
 
-These are some of the key words found in the github "mainnet outages" repository AAR for the monitoring team and their purpose:
+## These are some of the key words found in the github "mainnet outages" repository AAR for the monitoring team and their purpose:
 TITLE - Issue or Problem encountered during Monitoring
 
 DATE - Particular Day and time
