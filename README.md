@@ -15,11 +15,11 @@ In both instances, an After Action Report (AAR) should be filed to document the 
 
 # AAR {After Action Report/Review}
 
-The purpose of this AAR is to review the effectiveness of the monitoring program for the RHOVISION project. The AAR will identify areas where the monitoring program is performing well and areas where it could be improved.
+The purpose of this AAR is to review the effectiveness of the monitoring program for the RHOVISION project. The AAR will identify areas where the monitoring program is performing well and areas where it could be improved.(\n)
 
-After Action Report, is a process for reviewing and reflecting on an event or activity. It is a valuable tool for improving performance and identifying areas for improvement. An AAR for monitoring can be used to review the effectiveness of a monitoring program and identify areas where the program can be improved.
+After Action Report, is a process for reviewing and reflecting on an event or activity. It is a valuable tool for improving performance and identifying areas for improvement. An AAR for monitoring can be used to review the effectiveness of a monitoring program and identify areas where the program can be improved.(\n)
 
-The following are some of the key benefits of conducting an AAR for monitoring:
+The following are some of the key benefits of conducting an AAR for monitoring:(\n)
 
 *Improved performance
 *Identification of areas for improvement
